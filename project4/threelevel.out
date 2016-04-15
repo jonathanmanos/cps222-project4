@@ -1,0 +1,142 @@
+Name of file containing the B-Tree: Created file threelevel.tree of degree 7 using 1 blocks. Root at 0, first free 0
+Inserting	CAT CHARLENE
+
+Inserting	DOG DONNA
+
+Inserting	ELEPHANT EMILY
+
+Inserting	FOX FRANCINE
+
+Inserting	GOPHER GERTRUDE
+
+Inserting	BUFFALO BILL
+
+Inserting	ALBACORE ARIANNE
+
+Inserting	BISON BORIS
+
+Inserting	COW CLARABELLE
+
+Inserting	ABALONE ANTOINETTE
+
+Inserting	HORSE HORACE
+
+Inserting	IGUANA IGNATIUS
+
+Inserting	JACKAL JOLENE
+
+Inserting	KANAGAROO KARL
+
+Inserting	ANT ALBERT
+
+Inserting	ANTEATER ALICIA
+
+Inserting	BAT BARRY
+
+Inserting	BEAR BEATRICE
+
+Inserting	CAMEL CARLOS
+
+Inserting	CANARY CAROLINE
+
+Inserting	CATBIRD CHARLES
+
+Inserting	CHICKADEE CHESTER
+
+Inserting	MONKEY MARY
+
+Inserting	MOUSE MICKEY
+
+Inserting	LLAMA LARRY
+
+Inserting	LION LEO
+
+Inserting	EMU EMIL
+
+Inserting	GOAT GERALDINE
+
+Inserting	FLEA FRANCINE
+
+Inserting	FOX FRED
+
+Inserting	AARDVARK ANTHONY
+
+Looking up DOG - Found: DONNA
+
+Looking up ANT - Found: ALBERT
+
+Looking up ALBACORE - Found: ARIANNE
+
+BTree in file threelevel.tree of degree 7 using 12 blocks. Root at 12, first free 0
+
+  Block 12 at level 1 contains 1 key(s)
+     4                 DOG                               DONNA
+    11
+
+    Block 4 at level 2 contains 3 key(s)
+       2                 ANT                              ALBERT
+      10               BISON                               BORIS
+       6                 CAT                            CHARLENE
+       7
+
+      Block 2 at level 3 contains 3 key(s)
+         0            AARDVARK                             ANTHONY
+         0             ABALONE                          ANTOINETTE
+         0            ALBACORE                             ARIANNE
+         0
+
+      Block 10 at level 3 contains 3 key(s)
+         0            ANTEATER                              ALICIA
+         0                 BAT                               BARRY
+         0                BEAR                            BEATRICE
+         0
+
+      Block 6 at level 3 contains 3 key(s)
+         0             BUFFALO                                BILL
+         0               CAMEL                              CARLOS
+         0              CANARY                            CAROLINE
+         0
+
+      Block 7 at level 3 contains 3 key(s)
+         0             CATBIRD                             CHARLES
+         0           CHICKADEE                             CHESTER
+         0                 COW                          CLARABELLE
+         0
+
+    Block 11 at level 2 contains 3 key(s)
+       3                 FOX                                FRED
+       9               HORSE                              HORACE
+       5                LION                                 LEO
+       8
+
+      Block 3 at level 3 contains 3 key(s)
+         0            ELEPHANT                               EMILY
+         0                 EMU                                EMIL
+         0                FLEA                            FRANCINE
+         0
+
+      Block 9 at level 3 contains 3 key(s)
+         0                 FOX                            FRANCINE
+         0                GOAT                           GERALDINE
+         0              GOPHER                            GERTRUDE
+         0
+
+      Block 5 at level 3 contains 3 key(s)
+         0              IGUANA                            IGNATIUS
+         0              JACKAL                              JOLENE
+         0           KANAGAROO                                KARL
+         0
+
+      Block 8 at level 3 contains 3 key(s)
+         0               LLAMA                               LARRY
+         0              MONKEY                                MARY
+         0               MOUSE                              MICKEY
+         0
+
+
+
+Finished
+
+Closing file threelevel.tree of degree 7 using 12 blocks. Root at 12, first free 0
+Total gets done: 82 (0 header, 0 free blocks).
+Total puts done: 62 (15 header, 0 free blocks).

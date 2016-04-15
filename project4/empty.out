@@ -1,0 +1,13 @@
+Name of file containing the B-Tree: Created file empty.tree of degree 7 using 1 blocks. Root at 0, first free 0
+Looking up DOG - Not found
+
+BTree in file empty.tree of degree 7 using 1 blocks. Root at 0, first free 0
+
+Empty tree
+
+
+Finished
+
+Closing file empty.tree of degree 7 using 1 blocks. Root at 0, first free 0
+Total gets done: 1 (0 header, 0 free blocks).
+Total puts done: 1 (1 header, 0 free blocks).

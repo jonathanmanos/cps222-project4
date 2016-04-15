@@ -1,0 +1,33 @@
+Name of file containing the B-Tree: Created file onelevel.tree of degree 7 using 1 blocks. Root at 0, first free 0
+Inserting	CAT CHARLENE
+
+Inserting	BUFFALO BILL
+
+Inserting	GOAT GRUFF
+
+Inserting	PILLOW DROOL
+
+Inserting	METAL GEAR
+
+Inserting	RATCHET CLANK
+
+Looking up METAL - Found: GEAR
+
+BTree in file onelevel.tree of degree 7 using 2 blocks. Root at 2, first free 0
+
+  Block 2 at level 1 contains 6 key(s)
+     0             BUFFALO                                BILL
+     0                 CAT                            CHARLENE
+     0                GOAT                               GRUFF
+     0               METAL                                GEAR
+     0              PILLOW                               DROOL
+     0             RATCHET                               CLANK
+     0
+
+
+
+Finished
+
+Closing file onelevel.tree of degree 7 using 2 blocks. Root at 2, first free 0
+Total gets done: 8 (0 header, 0 free blocks).
+Total puts done: 9 (3 header, 0 free blocks).
