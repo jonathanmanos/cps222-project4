@@ -1,0 +1,20 @@
+Name of file containing the B-Tree: Created file singlekey.tree of degree 7 using 1 blocks. Root at 0, first free 0
+Inserting	JAK DAXTER
+
+Looking up JAK - Found: DAXTER
+
+Looking up WESTSIDE - Not found
+
+BTree in file singlekey.tree of degree 7 using 2 blocks. Root at 2, first free 0
+
+  Block 2 at level 1 contains 1 key(s)
+     0                 JAK                              DAXTER
+     0
+
+
+
+Finished
+
+Closing file singlekey.tree of degree 7 using 2 blocks. Root at 2, first free 0
+Total gets done: 5 (0 header, 0 free blocks).
+Total puts done: 4 (3 header, 0 free blocks).

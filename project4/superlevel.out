@@ -1,0 +1,169 @@
+Name of file containing the B-Tree: Created file superlevel.tree of degree 7 using 1 blocks. Root at 0, first free 0
+Inserting	RATCHET CLANK
+
+Inserting	DOG LUNA
+
+Inserting	CINCO DEMAYO
+
+Inserting	SLY COOPER
+
+Inserting	COCA COLA
+
+Inserting	TACO BELL
+
+Inserting	MC DONALDS
+
+Inserting	LEO DICAPRIO
+
+Inserting	PAUL PIERCE
+
+Inserting	TOM BRADY
+
+Inserting	DOOR KNOB
+
+Inserting	ROCKET LEAGUE
+
+Inserting	DANGAN RONPA
+
+Inserting	KANGAROO JACK
+
+Inserting	DR NO
+
+Inserting	JAMES BOND
+
+Inserting	SAMSUNG GALAXY
+
+Inserting	ZEUS GREEK
+
+Inserting	WATER VAPOR
+
+Inserting	HP BOOOOOO
+
+Inserting	CHAPEL CHECKER
+
+Inserting	SHOWER POWER
+
+Inserting	CELTICS BASKET
+
+Inserting	PATS TD
+
+Inserting	BRUINS HOCKEY
+
+Inserting	BORUSSIA DORTMUND
+
+Inserting	AERO SMITH
+
+Inserting	MAROON FIVE
+
+Inserting	MATCHBOX TWENTY
+
+Inserting	FIRE TRUCK
+
+Inserting	DAY DREAM
+
+Inserting	PAC MAN
+
+Inserting	DONKEY KONG
+
+Inserting	LUIGI BRO
+
+Inserting	SONIC HEDGEHOG
+
+Inserting	ZOMBIE SLAYER
+
+Inserting	GOLDEN WATCH
+
+Inserting	VITA ISLAND
+
+Inserting	DUNKIN DONUTS
+
+Inserting	PRINCE POPPER
+
+Inserting	PINK WORLD
+
+BTree in file superlevel.tree of degree 7 using 13 blocks. Root at 12, first free 0
+
+  Block 12 at level 1 contains 1 key(s)
+     4               JAMES                                BOND
+    11
+
+    Block 4 at level 2 contains 3 key(s)
+       2              CHAPEL                             CHECKER
+       7                 DOG                                LUNA
+       5              DUNKIN                              DONUTS
+      10
+
+      Block 2 at level 3 contains 4 key(s)
+         0                AERO                               SMITH
+         0            BORUSSIA                            DORTMUND
+         0              BRUINS                              HOCKEY
+         0             CELTICS                              BASKET
+         0
+
+      Block 7 at level 3 contains 4 key(s)
+         0               CINCO                              DEMAYO
+         0                COCA                                COLA
+         0              DANGAN                               RONPA
+         0                 DAY                               DREAM
+         0
+
+      Block 5 at level 3 contains 3 key(s)
+         0              DONKEY                                KONG
+         0                DOOR                                KNOB
+         0                  DR                                  NO
+         0
+
+      Block 10 at level 3 contains 3 key(s)
+         0                FIRE                               TRUCK
+         0              GOLDEN                               WATCH
+         0                  HP                             BOOOOOO
+         0
+
+    Block 11 at level 2 contains 4 key(s)
+       8                  MC                             DONALDS
+       3                PINK                               WORLD
+      13             SAMSUNG                              GALAXY
+       6                TACO                                BELL
+       9
+
+      Block 8 at level 3 contains 5 key(s)
+         0            KANGAROO                                JACK
+         0                 LEO                            DICAPRIO
+         0               LUIGI                                 BRO
+         0              MAROON                                FIVE
+         0            MATCHBOX                              TWENTY
+         0
+
+      Block 3 at level 3 contains 3 key(s)
+         0                 PAC                                 MAN
+         0                PATS                                  TD
+         0                PAUL                              PIERCE
+         0
+
+      Block 13 at level 3 contains 3 key(s)
+         0              PRINCE                              POPPER
+         0             RATCHET                               CLANK
+         0              ROCKET                              LEAGUE
+         0
+
+      Block 6 at level 3 contains 3 key(s)
+         0              SHOWER                               POWER
+         0                 SLY                              COOPER
+         0               SONIC                            HEDGEHOG
+         0
+
+      Block 9 at level 3 contains 5 key(s)
+         0                 TOM                               BRADY
+         0                VITA                              ISLAND
+         0               WATER                               VAPOR
+         0                ZEUS                               GREEK
+         0              ZOMBIE                              SLAYER
+         0
+
+
+
+Finished
+
+Closing file superlevel.tree of degree 7 using 13 blocks. Root at 12, first free 0
+Total gets done: 101 (0 header, 0 free blocks).
+Total puts done: 75 (16 header, 0 free blocks).
